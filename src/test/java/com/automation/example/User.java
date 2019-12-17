@@ -1,4 +1,4 @@
-package com.automation;
+package com.automation.example;
 
 public class User {
 

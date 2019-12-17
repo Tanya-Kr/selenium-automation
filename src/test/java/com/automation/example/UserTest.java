@@ -1,4 +1,4 @@
-package com.automation;
+package com.automation.example;
 
 import org.testng.annotations.*;
 
